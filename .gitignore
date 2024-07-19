@@ -31,3 +31,6 @@ lerna-debug.log*
 
 # misc
 .DS_Store
+
+# only use wrangler config for development, use dashboard for production
+wrangler.toml
